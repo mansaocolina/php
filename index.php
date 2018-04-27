@@ -4,7 +4,7 @@ echo "Olá Mundo 123 !";
 
 echo "Olá Carlos!"
 
-echo "Vai dar merda"
+echo "Vai dar merda né"
 
 
 ?>
